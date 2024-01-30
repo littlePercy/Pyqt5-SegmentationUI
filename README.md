@@ -6,6 +6,7 @@ PyQt5安装教程https://zhuanlan.zhihu.com/p/162866700
 
 
 将 PyQt5 工程文件打包成可执行文件（.exe），以下是使用 PyInstaller 的步骤：
+
 step1=>安装 PyInstaller: 打开终端或命令提示符，并运行以下命令：
 
 pip install pyinstaller
